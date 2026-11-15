@@ -31,3 +31,11 @@ I will complete the missions in order and maintain separate Git commits for each
 ## My Goal
 
 My goal is not just to finish the assignment, but to understand what I am doing and become more comfortable working with my computer, Terminal, Python and GitHub.
+
+## My Learning
+
+Through this assignment, I have learned:
+
+- How computers represent and process information using binary and other number systems.
+- How to use Terminal commands and Python programs to explore and work with files.
+- How Git tracks changes and how GitHub helps people share and collaborate on projects.
