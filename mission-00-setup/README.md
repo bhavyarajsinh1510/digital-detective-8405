@@ -16,7 +16,7 @@ The objective of this mission was to create a GitHub repository for the Digital 
 - Created the main README.md file in the root directory.
 - Prepared the repository structure to keep all my work organised.
 
-**Repository name:** `digital-detective-XXXX`
+**Repository name:** `digital-detective-8405`
 
 ## 4. Commands / Tools Used
 
